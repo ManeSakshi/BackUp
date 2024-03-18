@@ -1,0 +1,1619 @@
+
+<turbo-frame id="conduit-feed-frame" class="js-for-you-feed-items"  data-repository-hovercards-enabled >
+            <article id="feed-item-767451136" data-hydro-view="{&quot;event_type&quot;:&quot;feeds.feed_visible&quot;,&quot;payload&quot;:{&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-20T01:22:20.000-08:00&quot;,&quot;record_id&quot;:760360630,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:760360630,&quot;card_position&quot;:0,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e7358-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-view-hmac="d4ceb5038b9cd9b8ef274643af32b0ed882e206c73bb9953ec089121be72439c" data-view-component="true" class="js-feed-item-component js-feed-item-view js-feed-item-next-component d-flex flex-column width-full flex-items-baseline pt-2 pb-2">
+    <div data-view-component="true" class="feed-item-content d-flex flex-column pt-2 pb-2 border color-border-default rounded-2 color-shadow-small width-full height-fit">
+      <div class="rounded-2 py-1">
+        <div class="px-3">
+              <header data-view-component="true" class="mt-1 mb-2 width-full d-flex flex-justify-between">
+
+                <div class="mr-2">
+                  <div class="position-relative">
+                      <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-20T01:22:20.000-08:00&quot;,&quot;record_id&quot;:760360630,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:760360630,&quot;card_position&quot;:0,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e7358-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:157484500},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="fa080357ea3a68f533b9029b84a4cf1476d04766a4cc94ff6e809f49b481c9f8" data-hovercard-type="user" data-hovercard-url="/users/H-Vaibhavi/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=0&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=9c7e7358-e510-11ee-aaf5-b4969136eae8&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FORKED_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-02-20+01%3A22%3A20+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=forked_viewer_repo&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=760360630&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=760360630&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=157484500&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/H-Vaibhavi" data-view-component="true" class="Link d-block"><img src="https://avatars.githubusercontent.com/u/157484500?s=80&amp;v=4" alt="@H-Vaibhavi profile" size="40" height="40" width="40" data-view-component="true" class="feed-item-user-avatar avatar circle box-shadow-none" /></a>
+                        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-feed-forked circle feed-item-heading-icon feed-next color-fg-muted position-absolute">
+    <path d="M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16ZM6 6.928a1.75 1.75 0 1 0-1 0V7.5A1.5 1.5 0 0 0 6.5 9h1v1.072a1.75 1.75 0 1 0 1 0V9h1A1.5 1.5 0 0 0 11 7.5v-.572a1.75 1.75 0 1 0-1 0V7.5a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5Z"></path>
+</svg>
+                  </div>
+                </div>
+
+                <div data-view-component="true" class="flex-1 ml-1 mb-1">
+                  <h5 data-view-component="true" class="text-normal color-fg-muted d-flex flex-items-center flex-row flex-nowrap width-fit">
+                      <span class="flex-1">
+                          <span class="flex-shrink-0">
+                              <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;feed_user_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-20T01:22:20.000-08:00&quot;,&quot;record_id&quot;:760360630,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:760360630,&quot;card_position&quot;:0,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e7358-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:157484500},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="449007449eee18cb3902ba36161aac6ea648211e7ec80fce2733e74285063209" data-hovercard-type="user" data-hovercard-url="/users/H-Vaibhavi/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_login&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=0&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=9c7e7358-e510-11ee-aaf5-b4969136eae8&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FORKED_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-02-20+01%3A22%3A20+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=forked_viewer_repo&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=760360630&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=760360630&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=157484500&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/H-Vaibhavi" data-view-component="true" class="Link--primary Link text-bold">H-Vaibhavi</a>
+                            forked
+                          </span>
+                          <span class="overflow-auto" >
+                            <span data-view-component="true" class="Truncate">
+    <span data-view-component="true" class="Truncate-text">                                      your repository
+
+</span>
+</span>                          </span>
+                      </span>
+
+
+                      <span class="js-hidden-label-target">
+                      </span>
+
+
+                          <details data-view-component="true" class="details-overlay details-reset  position-relative d-flex flex-self-center flex-items-end">
+      <summary role="button" data-view-component="true" class="btn-link">    <svg aria-label="feed item heading menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal feed-item-heading-menu-button mr-1">
+    <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+</svg>
+</summary>
+    <details-menu style="width: 320px; right: -0.4rem;" data-view-component="true" class="dropdown-menu dropdown-menu-sw show-more-popover">      <details class="details-reset details-overlay details-overlay-dark " id="feed-disinterest-dialog-767451136">
+          <summary data-hydro-click="{&quot;event_type&quot;:&quot;browser.feed.show_less_activity_button.click&quot;,&quot;payload&quot;:{&quot;actor_id&quot;:141248861,&quot;resource_id&quot;:760360630,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;event_id&quot;:767451136,&quot;event_type_string&quot;:&quot;fork_repo&quot;,&quot;clicked_at&quot;:1710757000,&quot;identifier&quot;:&quot;v1:69c5af5391832bdf0ce787ef1c2dc9ed5adc11489f436fbb4d775c16d39b11c6&quot;,&quot;source&quot;:&quot;H-Vaibhavi/MINI_PROJ&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="453350a2e817ef45c94af09f13b5ffae589b2ca9f47d4d4766de2fc2c457cb56" data-view-component="true" class="dropdown-item btn-link no-underline width-full py-3">    Show less activity like this
+</summary>
+  <details-dialog
+    class="Box d-flex flex-column anim-fade-in fast Box--overlay js-feed-item-disinterest-dialog overflow-hidden rounded-3"
+      aria-label="Send feedback"
+>
+    <div class="Box-header">
+      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+      </button>
+            <h1 class="Box-title mb-0">Send feedback</h1>
+    <p class="mb-0 color-fg-muted">Tell us more about your preferences</p>
+
+    </div>
+      <div class="Box-body overflow-auto">
+            <disinterest-modal class="d-flex flex-column overflow-hidden height-full" >
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/conduit/register_disinterest" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CaTqrvFSV5V87uTp3pvqy35KZwY_HuGZRhhCvSzwF0EibRFLndQMmHYP3Wkm-I-Jgdz27flN7pPFP9OYHRzkfg" autocomplete="off" />
+        <input type="hidden" name="event_id" id="disinterest-event-id-767451136" value="767451136" autocomplete="off" />
+        <input type="hidden" name="identifier" id="disinterest-identifier-id-767451136" value="v1:69c5af5391832bdf0ce787ef1c2dc9ed5adc11489f436fbb4d775c16d39b11c6" autocomplete="off" />
+        <input type="hidden" name="resource_id" id="disinterest-resource-id-767451136" value="760360630" autocomplete="off" />
+        <input type="hidden" name="resource_type" id="disinterest-resource-type-767451136" value="REPO" autocomplete="off" />
+        <input type="hidden" name="card_type" id="disinterest-card-type-767451136" value="fork_repo" autocomplete="off" />
+        <input type="hidden" name="undo" id="disinterest-undo-false-767451136" value="false" autocomplete="off" />
+
+        <label class="d-flex flex-items-start p-1" for="disinterest-reason-resource-767451136">
+          <input type="checkbox" name="reason_resource" id="disinterest-reason-resource-767451136" value="true" class="js-disinterest-checkbox mr-2 mt-1" />
+          <span
+            class="text-normal"
+            
+          >I&#39;m not interested in H-Vaibhavi/MINI_PROJ</span>
+</label>
+          <label class="d-flex flex-items-start p-1" for="disinterest-reason-event-type-resource-767451136">
+            <input type="checkbox" name="reason_event_type_resource" id="disinterest-reason-event-type-resource-767451136" value="true" class="js-disinterest-checkbox mr-2 mt-1" />
+            <span
+              class="text-normal"
+              
+            >I&#39;m not interested in forked repositories from H-Vaibhavi</span>
+</label>
+        <label class="d-flex flex-items-start p-1" for="disinterest-reason-event-type-767451136">
+          <input type="checkbox" name="reason_event_type" id="disinterest-reason-event-type-767451136" value="true" class="js-disinterest-checkbox mr-2 mt-1" />
+          <span
+            class="text-normal"
+            
+          >I want to see fewer forked repositories</span>
+</label>
+          <button form="feed-item-disinterest-form" type="submit" disabled="disabled" data-view-component="true" class="js-feed-disinterest-submit btn-block btn mt-3">    Submit
+</button>
+</form>    </disinterest-modal>
+
+      </div>
+  </details-dialog>
+</details>
+
+      <div class="js-block-user-button"></div>
+      <template>
+          <details class="details-reset details-overlay details-overlay-dark " >
+                  <summary data-view-component="true" class="dropdown-item btn-link no-underline width-full py-3">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-report mr-2">
+    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25Zm7 2.25v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 9a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>Report
+</summary>
+
+  <details-dialog
+    class="Box d-flex flex-column anim-fade-in fast Box--overlay overflow-hidden"
+      aria-label="Block or report H-Vaibhavi"
+>
+    <div class="Box-header report-dialog-header">
+      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+      </button>
+        <h1 class="Box-title m-0 h5" >Block or report H-Vaibhavi</h1>
+    </div>
+      <div class="Box-body overflow-auto">
+            <div class="border-bottom">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="mb-3" data-turbo="false" action="/settings/blocked_users" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ci8-CAuu3XMZmk2KLfKW7UEIxa2qNjvHDBtj5B1y4AnXOVjiKiqe5UpK9OjvzfsPT60ZygsIrFNfNxfCZFhuPQ" autocomplete="off" />
+          <input type="hidden" name="login" value="H-Vaibhavi">
+        <input type="hidden" name="return_to" value="/H-Vaibhavi">
+
+        <strong>Block user</strong>
+        <p>
+            Prevent this user from interacting with your repositories and sending you notifications.
+          Learn more about <a class="Link--inTextBlock" href="https://docs.github.com/articles/blocking-a-user-from-your-personal-account">blocking users</a>.
+        </p>
+
+
+
+
+
+
+          <div class="mb-2">
+              <primer-text-field class="FormControl width-full FormControl--fullWidth">
+      <label class="FormControl-label" for="note">
+        Add an optional note:
+</label>    
+  <div class="FormControl-input-wrap">
+    
+      <input id="new-block-note-from-sidebar" aria-label="Add an optional note:" aria-describedby="validation-79395e37-095d-45f1-8062-86180c6e3207 caption-79395e37-095d-45f1-8062-86180c6e3207" data-test-selector="ignored_user_note_text_field" data-target="primer-text-field.inputElement " class="FormControl-input FormControl-medium" type="text" name="note" />
+</div>
+      <div class="FormControl-inlineValidation" id="validation-79395e37-095d-45f1-8062-86180c6e3207" hidden="hidden">
+  <span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden><svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-check-circle-fill">
+    <path d="M6 0a6 6 0 1 1 0 12A6 6 0 0 1 6 0Zm-.705 8.737L9.63 4.403 8.392 3.166 5.295 6.263l-1.7-1.702L2.356 5.8l2.938 2.938Z"></path>
+</svg></span>
+  <span class=" FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"><svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
+    <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+</svg></span>
+  <span></span>
+</div>
+      <span class="FormControl-caption" id="caption-79395e37-095d-45f1-8062-86180c6e3207">Please don&#39;t include any personal information such as legal names or email addresses. Maximum 100 characters, markdown supported. This note will be visible to only you.</span>
+
+</primer-text-field>
+
+          </div>
+
+        <button
+          type="submit"
+          class="btn btn-danger"
+        >
+          Block user
+        </button>
+</form>    </div>
+    <div class="mt-3">
+      <strong>Report abuse</strong>
+      <p>
+        Contact GitHub support about this user’s behavior.
+        Learn more about <a class="Link--inTextBlock" href="https://docs.github.com/articles/reporting-abuse-or-spam">reporting abuse</a>.
+      </p>
+      <a href="/contact/report-abuse?report=H-Vaibhavi+%28user%29" class="btn btn-danger">Report abuse</a>
+    </div>
+
+      </div>
+  </details-dialog>
+</details>
+
+      </template>
+</details-menu>
+</details>
+</h5>
+                    <div class="d-flex">
+                      <h6 style="margin-top: 0rem" data-view-component="true" class="text-small text-normal color-fg-muted">
+                          
+                          <relative-time tense="past" datetime="2024-02-20T01:22:20-08:00" data-view-component="true">February 20, 2024 01:22</relative-time>
+</h6>                    </div>
+</div></header>        </div>
+        
+        <div class="mt-1 mb-1">
+          <div class="px-3">
+            <div >
+  
+  
+  
+    <section aria-label="card content" data-view-component="true" class="mt-0">      <div class="d-flex color-bg-subtle flex-items-center flex-justify-between p-3 rounded-1" >
+        <div class="flex-column">
+          <div class="d-flex flex-items-center">
+            <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-20T01:22:20.000-08:00&quot;,&quot;record_id&quot;:760360630,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:760360630,&quot;card_position&quot;:0,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e7358-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:157484500},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="fa080357ea3a68f533b9029b84a4cf1476d04766a4cc94ff6e809f49b481c9f8" data-hovercard-type="user" data-hovercard-url="/users/H-Vaibhavi/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=0&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=9c7e7358-e510-11ee-aaf5-b4969136eae8&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FORKED_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-02-20+01%3A22%3A20+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=forked_viewer_repo&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=760360630&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=760360630&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=157484500&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/H-Vaibhavi" data-view-component="true" class="Link d-block"><img src="https://avatars.githubusercontent.com/u/157484500?s=40&amp;v=4" alt="@H-Vaibhavi profile" size="20" height="20" width="20" data-view-component="true" class="feed-item-user-avatar avatar avatar-small circle box-shadow-none mr-2" /></a>
+            <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;repository_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-20T01:22:20.000-08:00&quot;,&quot;record_id&quot;:760360630,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:760360630,&quot;card_position&quot;:0,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e7358-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;REPO&quot;,&quot;clicked_resource_id&quot;:760360630},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="aa7ad0888b992b7511e5f31309e04d79129af3b316aef735f5d3ba1d89f7d9e4" data-hovercard-type="repository" data-hovercard-url="/H-Vaibhavi/MINI_PROJ/hovercard?event_type=feeds.feed_click&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=0&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=9c7e7358-e510-11ee-aaf5-b4969136eae8&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FORKED_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-02-20+01%3A22%3A20+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=forked_viewer_repo&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=760360630&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=760360630&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=760360630&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=REPO&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" href="/H-Vaibhavi/MINI_PROJ" data-view-component="true" class="Link--primary Link text-bold">H-Vaibhavi/MINI_PROJ</a>
+          </div>
+        </div>
+
+          <div
+            class="flex-self-center"
+            
+          >
+              <template class="js-unstar-confirmation-dialog-template">
+  <div class="Box-header">
+    <h2 class="Box-title">Unstar this repository?</h2>
+  </div>
+  <div class="Box-body">
+    <p class="mb-3">
+      This will remove {{ repoNameWithOwner }} from the {{ listsWithCount }} that it's been added to.
+    </p>
+    <div class="form-actions">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-confirmation-form" data-turbo="false" action="{{ confirmUrl }}" accept-charset="UTF-8" method="post">
+        <input type="hidden" name="authenticity_token" value="{{ confirmCsrfToken }}">
+        <input type="hidden" name="confirm" value="true">
+          <button data-close-dialog="true" type="submit" data-view-component="true" class="btn-danger btn width-full">    Unstar
+</button>
+</form>    </div>
+  </div>
+</template>
+
+  <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
+    <div data-view-component="true" class="starred BtnGroup flex-1 ml-0">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/H-Vaibhavi/MINI_PROJ/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YnsMfIgC8-bVGCuvh7M3qaKFVciyhPO-e7mxMuFRNWIqxvbNwoVODk1dDYtpkD2Yd27SCnXXeDddCYq91dk6fQ" autocomplete="off" />
+          <input type="hidden" value="D6MXLqVdbiCHODT7LQBApK5NokGD2ny_AFQvYiG1J3xHHu2f79rTyB99Et_DI0qVe6Ylg0SJ9zYm5BTtFT0oYw" data-csrf="true" class="js-confirm-csrf-token" />
+        <input type="hidden" name="context" value="repository">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;star_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-20T01:22:20.000-08:00&quot;,&quot;record_id&quot;:760360630,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:760360630,&quot;card_position&quot;:0,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e7358-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="de7e6469dd95734801c0326f4b25ca264d4b38795d84faf68071d01f6366180d" data-ga-click="Repository, click unstar button, action:conduit/for_you_feed#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
+</svg><span data-view-component="true" class="d-inline">
+              Starred
+</span>
+</button></form>        <details id="details-user-list-760360630-starred" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;user_list_menu&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-20T01:22:20.000-08:00&quot;,&quot;record_id&quot;:760360630,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:760360630,&quot;card_position&quot;:0,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e7358-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="5ec6d6d9b50e6a42b249758cb70518efa08381f7a96d2dc48612d90840e9a56a" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+        <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+</summary>
+  <details-menu
+    class="SelectMenu right-0"
+      src="/H-Vaibhavi/MINI_PROJ/lists"
+      
+      role="menu"
+      
+>
+    <div class="SelectMenu-modal">
+        <header class="SelectMenu-header">
+                <h4 class="SelectMenu-title f5" id="user-lists-menu">Lists</h4>
+
+          <button class="SelectMenu-closeButton" type="button" aria-label="Close menu" data-toggle-for="details-user-list-760360630-starred">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+          </button>
+        </header>
+      <div
+        id="filter-menu-f45cc7"
+        class="d-flex flex-column flex-1 overflow-hidden"
+>
+        <div
+          class="SelectMenu-list"
+          >
+
+            <include-fragment class="SelectMenu-loading" aria-label="Loading">
+              <svg role="menuitem" style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+            </include-fragment>
+        </div>
+        
+      </div>
+    </div>
+  </details-menu>
+</details>
+</div>
+    <div data-view-component="true" class="unstarred BtnGroup ml-0 flex-1">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/H-Vaibhavi/MINI_PROJ/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="72k7ht38f7rcQi1AQnz61kT3kaWFkpLzREK8_n-B2Z3QLIIM-MZrY4X5LBRMAPelZCy5gRwvggtVu1LYuTBVoQ" autocomplete="off" />
+        <input type="hidden" name="context" value="repository">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;star_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-20T01:22:20.000-08:00&quot;,&quot;record_id&quot;:760360630,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:760360630,&quot;card_position&quot;:0,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e7358-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="de7e6469dd95734801c0326f4b25ca264d4b38795d84faf68071d01f6366180d" data-ga-click="Repository, click star button, action:conduit/for_you_feed#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><span data-view-component="true" class="d-inline">
+              Star
+</span>
+</button></form>        <details id="details-user-list-760360630-unstarred" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;user_list_menu&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-20T01:22:20.000-08:00&quot;,&quot;record_id&quot;:760360630,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:760360630,&quot;card_position&quot;:0,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e7358-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="5ec6d6d9b50e6a42b249758cb70518efa08381f7a96d2dc48612d90840e9a56a" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+        <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+</summary>
+  <details-menu
+    class="SelectMenu right-0"
+      src="/H-Vaibhavi/MINI_PROJ/lists"
+      
+      role="menu"
+      
+>
+    <div class="SelectMenu-modal">
+        <header class="SelectMenu-header">
+                <h4 class="SelectMenu-title f5" id="user-lists-menu">Lists</h4>
+
+          <button class="SelectMenu-closeButton" type="button" aria-label="Close menu" data-toggle-for="details-user-list-760360630-unstarred">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+          </button>
+        </header>
+      <div
+        id="filter-menu-d648a5"
+        class="d-flex flex-column flex-1 overflow-hidden"
+>
+        <div
+          class="SelectMenu-list"
+          >
+
+            <include-fragment class="SelectMenu-loading" aria-label="Loading">
+              <svg role="menuitem" style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+            </include-fragment>
+        </div>
+        
+      </div>
+    </div>
+  </details-menu>
+</details>
+</div></div>          </div>
+      </div>
+</section>
+</div>
+
+            
+          </div>
+
+          
+
+          
+        </div>
+      </div>
+      
+</div></article>
+<div id="dismissed-item-placeholder-767451136" hidden="hidden" data-view-component="true" class="color-bg-subtle color-fg-muted d-flex flex-justify-between width-full flex-items-baseline py-2 px-3 mt-3 mb-3 border color-border-subtle rounded-1">
+  <span >
+      Dismissed a repository from H-Vaibhavi/MINI_PROJ. Thank you for the feedback!
+  </span>
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/conduit/register_disinterest" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" autocomplete="off" /><input type="hidden" name="authenticity_token" value="u5VH66Bxct4J3965Ss_-9wkfjWAXv7tYXQiLguJAoAbME5uhUkv4_wF8yNd2Ie3hOkjHO3ZAeCul-UXoEyCfQw" autocomplete="off" />
+    <input type="hidden" name="event_id" id="disinterest-event-id-767451136" value="767451136" autocomplete="off" />
+    <input type="hidden" name="resource_id" id="disinterest-resource-id-767451136" value="760360630" autocomplete="off" />
+    <input type="hidden" name="identifier" id="disinterest-identifier-id-767451136" value="v1:69c5af5391832bdf0ce787ef1c2dc9ed5adc11489f436fbb4d775c16d39b11c6" autocomplete="off" />
+    <input type="hidden" name="resource_type" id="disinterest-resource-type-767451136" value="REPO" autocomplete="off" />
+    <input type="hidden" name="card_type" id="disinterest-card-type-767451136" value="fork_repo" autocomplete="off" />
+    <input type="hidden" name="reason" id="disinterest-reason-unknown-767451136" value="reason_unknown" autocomplete="off" />
+    <input type="hidden" name="undo" id="disinterest-undo-767451136" value="true" autocomplete="off" />
+
+      <button form="feed-item-disinterest-form" type="submit" data-view-component="true" class="js-feed-disinterest-submit btn-link color-fg-muted">    Undo
+</button>
+</form></div>
+
+            <article id="feed-item-703586066" data-hydro-view="{&quot;event_type&quot;:&quot;feeds.feed_visible&quot;,&quot;payload&quot;:{&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:43:59.000-08:00&quot;,&quot;record_id&quot;:753548752,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753548752,&quot;card_position&quot;:1,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e6758-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-view-hmac="3a8a6d4907f5771a4d7554d33bef62490bf42b2cb06671cd3852b96d089510d8" data-view-component="true" class="js-feed-item-component js-feed-item-view js-feed-item-next-component d-flex flex-column width-full flex-items-baseline pt-2 pb-2">
+    <div data-view-component="true" class="feed-item-content d-flex flex-column pt-2 pb-2 border color-border-default rounded-2 color-shadow-small width-full height-fit">
+      <div class="rounded-2 py-1">
+        <div class="px-3">
+              <header data-view-component="true" class="mt-1 mb-2 width-full d-flex flex-justify-between">
+
+                <div class="mr-2">
+                  <div class="position-relative">
+                      <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:43:59.000-08:00&quot;,&quot;record_id&quot;:753548752,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753548752,&quot;card_position&quot;:1,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e6758-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:141044503},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="9ddde65334e0f4ac1d2334da81f372b1f4911c6ff2d69d0b9b10d3fefa2cf4eb" data-hovercard-type="user" data-hovercard-url="/users/code-with-Radha/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=1&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=9c7e6758-e510-11ee-aaf5-b4969136eae8&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FORKED_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-02-06+02%3A43%3A59+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=forked_viewer_repo&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=753548752&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=753548752&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=141044503&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/code-with-Radha" data-view-component="true" class="Link d-block"><img src="https://avatars.githubusercontent.com/u/141044503?s=80&amp;v=4" alt="@code-with-Radha profile" size="40" height="40" width="40" data-view-component="true" class="feed-item-user-avatar avatar circle box-shadow-none" /></a>
+                        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-feed-forked circle feed-item-heading-icon feed-next color-fg-muted position-absolute">
+    <path d="M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16ZM6 6.928a1.75 1.75 0 1 0-1 0V7.5A1.5 1.5 0 0 0 6.5 9h1v1.072a1.75 1.75 0 1 0 1 0V9h1A1.5 1.5 0 0 0 11 7.5v-.572a1.75 1.75 0 1 0-1 0V7.5a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5Z"></path>
+</svg>
+                  </div>
+                </div>
+
+                <div data-view-component="true" class="flex-1 ml-1 mb-1">
+                  <h5 data-view-component="true" class="text-normal color-fg-muted d-flex flex-items-center flex-row flex-nowrap width-fit">
+                      <span class="flex-1">
+                          <span class="flex-shrink-0">
+                              <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;feed_user_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:43:59.000-08:00&quot;,&quot;record_id&quot;:753548752,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753548752,&quot;card_position&quot;:1,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e6758-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:141044503},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="fe3ad8b6045b8edec45c2be33f615db25a2e70e3597538671db250e8ec7b050c" data-hovercard-type="user" data-hovercard-url="/users/code-with-Radha/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_login&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=1&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=9c7e6758-e510-11ee-aaf5-b4969136eae8&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FORKED_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-02-06+02%3A43%3A59+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=forked_viewer_repo&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=753548752&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=753548752&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=141044503&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/code-with-Radha" data-view-component="true" class="Link--primary Link text-bold">code-with-Radha</a>
+                            forked
+                          </span>
+                          <span class="overflow-auto" >
+                            <span data-view-component="true" class="Truncate">
+    <span data-view-component="true" class="Truncate-text">                                      your repository
+
+</span>
+</span>                          </span>
+                      </span>
+
+
+                      <span class="js-hidden-label-target">
+                      </span>
+
+
+                          <details data-view-component="true" class="details-overlay details-reset  position-relative d-flex flex-self-center flex-items-end">
+      <summary role="button" data-view-component="true" class="btn-link">    <svg aria-label="feed item heading menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal feed-item-heading-menu-button mr-1">
+    <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+</svg>
+</summary>
+    <details-menu style="width: 320px; right: -0.4rem;" data-view-component="true" class="dropdown-menu dropdown-menu-sw show-more-popover">      <details class="details-reset details-overlay details-overlay-dark " id="feed-disinterest-dialog-703586066">
+          <summary data-hydro-click="{&quot;event_type&quot;:&quot;browser.feed.show_less_activity_button.click&quot;,&quot;payload&quot;:{&quot;actor_id&quot;:141248861,&quot;resource_id&quot;:753548752,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;event_id&quot;:703586066,&quot;event_type_string&quot;:&quot;fork_repo&quot;,&quot;clicked_at&quot;:1710757000,&quot;identifier&quot;:&quot;v1:568e786f7fffa567c11fc3c7143d12469951ae2876cc5e76d59f63c1f15a442a&quot;,&quot;source&quot;:&quot;code-with-Radha/MINI_PROJ&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="9cab7357715b81014d657f9d3ef59790a537844354204292510323612619fcfe" data-view-component="true" class="dropdown-item btn-link no-underline width-full py-3">    Show less activity like this
+</summary>
+  <details-dialog
+    class="Box d-flex flex-column anim-fade-in fast Box--overlay js-feed-item-disinterest-dialog overflow-hidden rounded-3"
+      aria-label="Send feedback"
+>
+    <div class="Box-header">
+      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+      </button>
+            <h1 class="Box-title mb-0">Send feedback</h1>
+    <p class="mb-0 color-fg-muted">Tell us more about your preferences</p>
+
+    </div>
+      <div class="Box-body overflow-auto">
+            <disinterest-modal class="d-flex flex-column overflow-hidden height-full" >
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/conduit/register_disinterest" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wxO-5P5F4XiK2R4WsvHP7lpKQyfqxXEBTz7dwv3yQ-_o2kUBksO6dYA4J5ZKkqqspdzSzCyWfgvMGUznzB6w0A" autocomplete="off" />
+        <input type="hidden" name="event_id" id="disinterest-event-id-703586066" value="703586066" autocomplete="off" />
+        <input type="hidden" name="identifier" id="disinterest-identifier-id-703586066" value="v1:568e786f7fffa567c11fc3c7143d12469951ae2876cc5e76d59f63c1f15a442a" autocomplete="off" />
+        <input type="hidden" name="resource_id" id="disinterest-resource-id-703586066" value="753548752" autocomplete="off" />
+        <input type="hidden" name="resource_type" id="disinterest-resource-type-703586066" value="REPO" autocomplete="off" />
+        <input type="hidden" name="card_type" id="disinterest-card-type-703586066" value="fork_repo" autocomplete="off" />
+        <input type="hidden" name="undo" id="disinterest-undo-false-703586066" value="false" autocomplete="off" />
+
+        <label class="d-flex flex-items-start p-1" for="disinterest-reason-resource-703586066">
+          <input type="checkbox" name="reason_resource" id="disinterest-reason-resource-703586066" value="true" class="js-disinterest-checkbox mr-2 mt-1" />
+          <span
+            class="text-normal"
+            
+          >I&#39;m not interested in code-with-Radha/MINI_PROJ</span>
+</label>
+          <label class="d-flex flex-items-start p-1" for="disinterest-reason-event-type-resource-703586066">
+            <input type="checkbox" name="reason_event_type_resource" id="disinterest-reason-event-type-resource-703586066" value="true" class="js-disinterest-checkbox mr-2 mt-1" />
+            <span
+              class="text-normal"
+              
+            >I&#39;m not interested in forked repositories from code-with-Radha</span>
+</label>
+        <label class="d-flex flex-items-start p-1" for="disinterest-reason-event-type-703586066">
+          <input type="checkbox" name="reason_event_type" id="disinterest-reason-event-type-703586066" value="true" class="js-disinterest-checkbox mr-2 mt-1" />
+          <span
+            class="text-normal"
+            
+          >I want to see fewer forked repositories</span>
+</label>
+          <button form="feed-item-disinterest-form" type="submit" disabled="disabled" data-view-component="true" class="js-feed-disinterest-submit btn-block btn mt-3">    Submit
+</button>
+</form>    </disinterest-modal>
+
+      </div>
+  </details-dialog>
+</details>
+
+      <div class="js-block-user-button"></div>
+      <template>
+          <details class="details-reset details-overlay details-overlay-dark " >
+                  <summary data-view-component="true" class="dropdown-item btn-link no-underline width-full py-3">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-report mr-2">
+    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25Zm7 2.25v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 9a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>Report
+</summary>
+
+  <details-dialog
+    class="Box d-flex flex-column anim-fade-in fast Box--overlay overflow-hidden"
+      aria-label="Block or report code-with-Radha"
+>
+    <div class="Box-header report-dialog-header">
+      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+      </button>
+        <h1 class="Box-title m-0 h5" >Block or report code-with-Radha</h1>
+    </div>
+      <div class="Box-body overflow-auto">
+            <div class="border-bottom">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="mb-3" data-turbo="false" action="/settings/blocked_users" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="12hbU2N6ITCg3myes8z3GKP2_YgRXisFWSdgqc8361dyfj25Qv5ipvMO1fxx85r6rVMh77BgvJEKCxSPth1lYw" autocomplete="off" />
+          <input type="hidden" name="login" value="code-with-Radha">
+        <input type="hidden" name="return_to" value="/code-with-Radha">
+
+        <strong>Block user</strong>
+        <p>
+            Prevent this user from interacting with your repositories and sending you notifications.
+          Learn more about <a class="Link--inTextBlock" href="https://docs.github.com/articles/blocking-a-user-from-your-personal-account">blocking users</a>.
+        </p>
+
+
+
+
+
+
+          <div class="mb-2">
+              <primer-text-field class="FormControl width-full FormControl--fullWidth">
+      <label class="FormControl-label" for="note">
+        Add an optional note:
+</label>    
+  <div class="FormControl-input-wrap">
+    
+      <input id="new-block-note-from-sidebar" aria-label="Add an optional note:" aria-describedby="validation-db8201d1-000b-400e-906f-4dd3b068ce1d caption-db8201d1-000b-400e-906f-4dd3b068ce1d" data-test-selector="ignored_user_note_text_field" data-target="primer-text-field.inputElement " class="FormControl-input FormControl-medium" type="text" name="note" />
+</div>
+      <div class="FormControl-inlineValidation" id="validation-db8201d1-000b-400e-906f-4dd3b068ce1d" hidden="hidden">
+  <span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden><svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-check-circle-fill">
+    <path d="M6 0a6 6 0 1 1 0 12A6 6 0 0 1 6 0Zm-.705 8.737L9.63 4.403 8.392 3.166 5.295 6.263l-1.7-1.702L2.356 5.8l2.938 2.938Z"></path>
+</svg></span>
+  <span class=" FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"><svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
+    <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+</svg></span>
+  <span></span>
+</div>
+      <span class="FormControl-caption" id="caption-db8201d1-000b-400e-906f-4dd3b068ce1d">Please don&#39;t include any personal information such as legal names or email addresses. Maximum 100 characters, markdown supported. This note will be visible to only you.</span>
+
+</primer-text-field>
+
+          </div>
+
+        <button
+          type="submit"
+          class="btn btn-danger"
+        >
+          Block user
+        </button>
+</form>    </div>
+    <div class="mt-3">
+      <strong>Report abuse</strong>
+      <p>
+        Contact GitHub support about this user’s behavior.
+        Learn more about <a class="Link--inTextBlock" href="https://docs.github.com/articles/reporting-abuse-or-spam">reporting abuse</a>.
+      </p>
+      <a href="/contact/report-abuse?report=code-with-Radha+%28user%29" class="btn btn-danger">Report abuse</a>
+    </div>
+
+      </div>
+  </details-dialog>
+</details>
+
+      </template>
+</details-menu>
+</details>
+</h5>
+                    <div class="d-flex">
+                      <h6 style="margin-top: 0rem" data-view-component="true" class="text-small text-normal color-fg-muted">
+                          
+                          <relative-time tense="past" datetime="2024-02-06T02:43:59-08:00" data-view-component="true">February 6, 2024 02:43</relative-time>
+</h6>                    </div>
+</div></header>        </div>
+        
+        <div class="mt-1 mb-1">
+          <div class="px-3">
+            <div >
+  
+  
+  
+    <section aria-label="card content" data-view-component="true" class="mt-0">      <div class="d-flex color-bg-subtle flex-items-center flex-justify-between p-3 rounded-1" >
+        <div class="flex-column">
+          <div class="d-flex flex-items-center">
+            <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:43:59.000-08:00&quot;,&quot;record_id&quot;:753548752,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753548752,&quot;card_position&quot;:1,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e6758-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:141044503},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="9ddde65334e0f4ac1d2334da81f372b1f4911c6ff2d69d0b9b10d3fefa2cf4eb" data-hovercard-type="user" data-hovercard-url="/users/code-with-Radha/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=1&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=9c7e6758-e510-11ee-aaf5-b4969136eae8&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FORKED_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-02-06+02%3A43%3A59+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=forked_viewer_repo&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=753548752&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=753548752&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=141044503&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/code-with-Radha" data-view-component="true" class="Link d-block"><img src="https://avatars.githubusercontent.com/u/141044503?s=40&amp;v=4" alt="@code-with-Radha profile" size="20" height="20" width="20" data-view-component="true" class="feed-item-user-avatar avatar avatar-small circle box-shadow-none mr-2" /></a>
+            <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;repository_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:43:59.000-08:00&quot;,&quot;record_id&quot;:753548752,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753548752,&quot;card_position&quot;:1,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e6758-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;REPO&quot;,&quot;clicked_resource_id&quot;:753548752},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="9c4f410ce0d48ff69e8c2014fb4d0ec307dd8de44640e64308bf6eee139d466a" data-hovercard-type="repository" data-hovercard-url="/code-with-Radha/MINI_PROJ/hovercard?event_type=feeds.feed_click&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=1&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=9c7e6758-e510-11ee-aaf5-b4969136eae8&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FORKED_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-02-06+02%3A43%3A59+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=forked_viewer_repo&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=753548752&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=753548752&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=753548752&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=REPO&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" href="/code-with-Radha/MINI_PROJ" data-view-component="true" class="Link--primary Link text-bold">code-with-Radha/MINI_PROJ</a>
+          </div>
+        </div>
+
+          <div
+            class="flex-self-center"
+            
+          >
+              <template class="js-unstar-confirmation-dialog-template">
+  <div class="Box-header">
+    <h2 class="Box-title">Unstar this repository?</h2>
+  </div>
+  <div class="Box-body">
+    <p class="mb-3">
+      This will remove {{ repoNameWithOwner }} from the {{ listsWithCount }} that it's been added to.
+    </p>
+    <div class="form-actions">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-confirmation-form" data-turbo="false" action="{{ confirmUrl }}" accept-charset="UTF-8" method="post">
+        <input type="hidden" name="authenticity_token" value="{{ confirmCsrfToken }}">
+        <input type="hidden" name="confirm" value="true">
+          <button data-close-dialog="true" type="submit" data-view-component="true" class="btn-danger btn width-full">    Unstar
+</button>
+</form>    </div>
+  </div>
+</template>
+
+  <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
+    <div data-view-component="true" class="starred BtnGroup flex-1 ml-0">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/code-with-Radha/MINI_PROJ/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eg_0u4wC-GlRaQf4jusNPE51PhbumCZSPbxaTN-POyv-g4NLWV5QpASJB0w__cVG4axptg2si_1t5Tpn81Y9Bg" autocomplete="off" />
+          <input type="hidden" value="Y-J9HzDoKY-0HzZt4xPSF6MpFOD2lRGoVk3NtWKoEoHnbgrv5bSBQuH_NtlSBRptDPBDQBWhvAcGFK2eTnEUrA" data-csrf="true" class="js-confirm-csrf-token" />
+        <input type="hidden" name="context" value="repository">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;star_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:43:59.000-08:00&quot;,&quot;record_id&quot;:753548752,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753548752,&quot;card_position&quot;:1,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e6758-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="fa7e88ad4388f120e51ffe3b70d8a93e8054aae74256d5b7c1269c0ff3a6078e" data-ga-click="Repository, click unstar button, action:conduit/for_you_feed#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
+</svg><span data-view-component="true" class="d-inline">
+              Starred
+</span>
+</button></form>        <details id="details-user-list-753548752-starred" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;user_list_menu&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:43:59.000-08:00&quot;,&quot;record_id&quot;:753548752,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753548752,&quot;card_position&quot;:1,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e6758-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="ed8c788f81c0a3f2e7e3a295ffd0dd7ce59ec99627e399539a36d2b2df49ab44" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+        <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+</summary>
+  <details-menu
+    class="SelectMenu right-0"
+      src="/code-with-Radha/MINI_PROJ/lists"
+      
+      role="menu"
+      
+>
+    <div class="SelectMenu-modal">
+        <header class="SelectMenu-header">
+                <h4 class="SelectMenu-title f5" id="user-lists-menu">Lists</h4>
+
+          <button class="SelectMenu-closeButton" type="button" aria-label="Close menu" data-toggle-for="details-user-list-753548752-starred">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+          </button>
+        </header>
+      <div
+        id="filter-menu-eeb4da"
+        class="d-flex flex-column flex-1 overflow-hidden"
+>
+        <div
+          class="SelectMenu-list"
+          >
+
+            <include-fragment class="SelectMenu-loading" aria-label="Loading">
+              <svg role="menuitem" style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+            </include-fragment>
+        </div>
+        
+      </div>
+    </div>
+  </details-menu>
+</details>
+</div>
+    <div data-view-component="true" class="unstarred BtnGroup ml-0 flex-1">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/code-with-Radha/MINI_PROJ/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="tOYAvAAYXWo69wS3A_KnXqKwM-JzBNkfzKrtr9aW6Sd_dWNNwhKGd5JNO3mZ1hWnF2C81AvLtZ3oo7nf1uDQ8g" autocomplete="off" />
+        <input type="hidden" name="context" value="repository">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;star_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:43:59.000-08:00&quot;,&quot;record_id&quot;:753548752,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753548752,&quot;card_position&quot;:1,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e6758-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="fa7e88ad4388f120e51ffe3b70d8a93e8054aae74256d5b7c1269c0ff3a6078e" data-ga-click="Repository, click star button, action:conduit/for_you_feed#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><span data-view-component="true" class="d-inline">
+              Star
+</span>
+</button></form>        <details id="details-user-list-753548752-unstarred" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;user_list_menu&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:43:59.000-08:00&quot;,&quot;record_id&quot;:753548752,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753548752,&quot;card_position&quot;:1,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e6758-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="ed8c788f81c0a3f2e7e3a295ffd0dd7ce59ec99627e399539a36d2b2df49ab44" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+        <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+</summary>
+  <details-menu
+    class="SelectMenu right-0"
+      src="/code-with-Radha/MINI_PROJ/lists"
+      
+      role="menu"
+      
+>
+    <div class="SelectMenu-modal">
+        <header class="SelectMenu-header">
+                <h4 class="SelectMenu-title f5" id="user-lists-menu">Lists</h4>
+
+          <button class="SelectMenu-closeButton" type="button" aria-label="Close menu" data-toggle-for="details-user-list-753548752-unstarred">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+          </button>
+        </header>
+      <div
+        id="filter-menu-a672bb"
+        class="d-flex flex-column flex-1 overflow-hidden"
+>
+        <div
+          class="SelectMenu-list"
+          >
+
+            <include-fragment class="SelectMenu-loading" aria-label="Loading">
+              <svg role="menuitem" style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+            </include-fragment>
+        </div>
+        
+      </div>
+    </div>
+  </details-menu>
+</details>
+</div></div>          </div>
+      </div>
+</section>
+</div>
+
+            
+          </div>
+
+          
+
+          
+        </div>
+      </div>
+      
+</div></article>
+<div id="dismissed-item-placeholder-703586066" hidden="hidden" data-view-component="true" class="color-bg-subtle color-fg-muted d-flex flex-justify-between width-full flex-items-baseline py-2 px-3 mt-3 mb-3 border color-border-subtle rounded-1">
+  <span >
+      Dismissed a repository from code-with-Radha/MINI_PROJ. Thank you for the feedback!
+  </span>
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/conduit/register_disinterest" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" autocomplete="off" /><input type="hidden" name="authenticity_token" value="TqTD48j8IfB0MzgHnuRMzpb5Nvz6MBEYVbUdC8qaofk5Ih-pOsar0XyQLmmiCl_Ypa58p5vP0mutRNNhO_qevA" autocomplete="off" />
+    <input type="hidden" name="event_id" id="disinterest-event-id-703586066" value="703586066" autocomplete="off" />
+    <input type="hidden" name="resource_id" id="disinterest-resource-id-703586066" value="753548752" autocomplete="off" />
+    <input type="hidden" name="identifier" id="disinterest-identifier-id-703586066" value="v1:568e786f7fffa567c11fc3c7143d12469951ae2876cc5e76d59f63c1f15a442a" autocomplete="off" />
+    <input type="hidden" name="resource_type" id="disinterest-resource-type-703586066" value="REPO" autocomplete="off" />
+    <input type="hidden" name="card_type" id="disinterest-card-type-703586066" value="fork_repo" autocomplete="off" />
+    <input type="hidden" name="reason" id="disinterest-reason-unknown-703586066" value="reason_unknown" autocomplete="off" />
+    <input type="hidden" name="undo" id="disinterest-undo-703586066" value="true" autocomplete="off" />
+
+      <button form="feed-item-disinterest-form" type="submit" data-view-component="true" class="js-feed-disinterest-submit btn-link color-fg-muted">    Undo
+</button>
+</form></div>
+
+            <article id="feed-item-0" data-hydro-view="{&quot;event_type&quot;:&quot;feeds.feed_visible&quot;,&quot;payload&quot;:{&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:651517185,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:651517185,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:0,&quot;card_retrieved_id&quot;:&quot;d2c7eeb6-5ecc-4f16-9ed7-49d6f1c264fc&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-view-hmac="ff54ea956092eef98ce01abc38c76c25e144876c95aa1bc7968bc235a39adfa2" data-view-component="true" class="js-feed-item-component js-feed-item-view js-feed-item-next-component d-flex flex-column width-full flex-items-baseline pt-2 pb-2">
+    <div data-view-component="true" class="feed-item-content d-flex flex-column pt-2 pb-2 border color-border-default rounded-2 color-shadow-small width-full height-fit">
+      <div class="rounded-2 py-1">
+        <div class="px-3">
+                    <header
+        class="d-inline-flex flex-items-center width-full mb-2"
+        
+      >
+        <span
+          class="d-inline-flex mr-2"
+          
+        >
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph color-fg-muted mr-0">
+    <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
+</svg>
+        </span>
+        <h5 class="text-normal color-fg-muted" >Trending repositories</h5>
+        <span class="mx-2">&middot;</span>
+        <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;SEE_MORE&quot;,&quot;feed_card&quot;:null,&quot;original_request_id&quot;:null,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="d879aaee3d980c9ceeaae9403ae1d8669366c13f4e5fd1e6e294dfb488c76c62" href="https://github.com/trending" data-view-component="true" class="Link">See more</a>
+          <details data-view-component="true" class="details-overlay details-reset  position-relative d-flex flex-self-center flex-items-end ml-auto">
+      <summary role="button" data-view-component="true" class="btn-link">    <svg aria-label="feed item heading menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal feed-item-heading-menu-button mr-1">
+    <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+</svg>
+</summary>
+    <details-menu style="width: 320px; right: -0.4rem;" data-view-component="true" class="dropdown-menu dropdown-menu-sw show-more-popover">      <div data-view-component="true" class="p-3 f6 color-fg-muted border-bottom">
+        You&#39;re seeing this based on GitHub-wide trends.
+</div>      <details class="details-reset details-overlay details-overlay-dark " id="feed-disinterest-dialog-0">
+          <summary data-hydro-click="{&quot;event_type&quot;:&quot;browser.feed.show_less_activity_button.click&quot;,&quot;payload&quot;:{&quot;actor_id&quot;:141248861,&quot;resource_id&quot;:651517185,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;event_id&quot;:0,&quot;event_type_string&quot;:&quot;trending_repo&quot;,&quot;clicked_at&quot;:1710757000,&quot;identifier&quot;:&quot;v1:0c6516e8ab77487c4696a929e54c44a67f9d29ba445568ab3ab76da3d2f7630a&quot;,&quot;source&quot;:&quot;NanmiCoder/MediaCrawler&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="bfc551df4022d4b79a74b7207e64269a51926cf6a88d83fc7148861f58f99e18" data-view-component="true" class="dropdown-item btn-link no-underline width-full py-3">    Show less activity like this
+</summary>
+  <details-dialog
+    class="Box d-flex flex-column anim-fade-in fast Box--overlay js-feed-item-disinterest-dialog overflow-hidden rounded-3"
+      aria-label="Send feedback"
+>
+    <div class="Box-header">
+      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+      </button>
+            <h1 class="Box-title mb-0">Send feedback</h1>
+    <p class="mb-0 color-fg-muted">Tell us more about your preferences</p>
+
+    </div>
+      <div class="Box-body overflow-auto">
+            <disinterest-modal class="d-flex flex-column overflow-hidden height-full" >
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/conduit/register_disinterest" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OrmDH0cAKFXcgEG489OuyeVXnet33dO58J_rhPAXyEYRcHj6K4ZzWNZheDgLsMuLGsEMALGO3LNzuHqhwfs7eQ" autocomplete="off" />
+        <input type="hidden" name="event_id" id="disinterest-event-id-0" value="0" autocomplete="off" />
+        <input type="hidden" name="identifier" id="disinterest-identifier-id-0" value="v1:0c6516e8ab77487c4696a929e54c44a67f9d29ba445568ab3ab76da3d2f7630a" autocomplete="off" />
+        <input type="hidden" name="resource_id" id="disinterest-resource-id-0" value="651517185" autocomplete="off" />
+        <input type="hidden" name="resource_type" id="disinterest-resource-type-0" value="REPO" autocomplete="off" />
+        <input type="hidden" name="card_type" id="disinterest-card-type-0" value="trending_repo" autocomplete="off" />
+        <input type="hidden" name="undo" id="disinterest-undo-false-0" value="false" autocomplete="off" />
+
+        <label class="d-flex flex-items-start p-1" for="disinterest-reason-resource-0">
+          <input type="checkbox" name="reason_resource" id="disinterest-reason-resource-0" value="true" class="js-disinterest-checkbox mr-2 mt-1" />
+          <span
+            class="text-normal"
+            
+          >I&#39;m not interested in NanmiCoder/MediaCrawler</span>
+</label>
+
+        <label class="d-flex flex-items-start p-1" for="disinterest-reason-event-type-0">
+          <input type="checkbox" name="reason_event_type" id="disinterest-reason-event-type-0" value="true" class="js-disinterest-checkbox mr-2 mt-1" />
+          <span
+            class="text-normal"
+            
+          >I want to see fewer trending repositories</span>
+</label>
+          <button form="feed-item-disinterest-form" type="submit" disabled="disabled" data-view-component="true" class="js-feed-disinterest-submit btn-block btn mt-3">    Submit
+</button>
+</form>    </disinterest-modal>
+
+      </div>
+  </details-dialog>
+</details>
+
+</details-menu>
+</details>
+      </header>
+
+        </div>
+        
+        <div class="mt-1 mb-1">
+          <div class="px-3">
+            <div >
+  
+  
+  
+    <section aria-label="card content" data-view-component="true" class="mt-0">      <div class="d-flex flex-items-center flex-justify-between" >
+        <div class="flex-column">
+          <div class="d-flex flex-items-center">
+            <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:651517185,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:651517185,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:0,&quot;card_retrieved_id&quot;:&quot;d2c7eeb6-5ecc-4f16-9ed7-49d6f1c264fc&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:47178017},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="5d77cf6c0390c1acfbfc86350b1573e9b5d090097440c88edb16dd784f8e7225" data-hovercard-type="user" data-hovercard-url="/users/NanmiCoder/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=2&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=d2c7eeb6-5ecc-4f16-9ed7-49d6f1c264fc&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=0&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=TRENDING_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-03-17+04%3A31%3A54+-0700&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=trending_repositories&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=651517185&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=651517185&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=47178017&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/NanmiCoder" data-view-component="true" class="Link d-block"><img src="https://avatars.githubusercontent.com/u/47178017?s=40&amp;v=4" alt="@NanmiCoder profile" size="20" height="20" width="20" data-view-component="true" class="feed-item-user-avatar avatar avatar-small circle box-shadow-none mr-2" /></a>
+            <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;repository_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:651517185,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:651517185,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:0,&quot;card_retrieved_id&quot;:&quot;d2c7eeb6-5ecc-4f16-9ed7-49d6f1c264fc&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;REPO&quot;,&quot;clicked_resource_id&quot;:651517185},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="0bc6f5caaa3aedd71ed3cd047ed4bb484d606009d1e7c7c65250a9bfa4d81b32" data-hovercard-type="repository" data-hovercard-url="/NanmiCoder/MediaCrawler/hovercard?event_type=feeds.feed_click&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=2&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=d2c7eeb6-5ecc-4f16-9ed7-49d6f1c264fc&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=0&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=TRENDING_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-03-17+04%3A31%3A54+-0700&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=trending_repositories&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=651517185&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=651517185&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=651517185&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=REPO&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" href="/NanmiCoder/MediaCrawler" data-view-component="true" class="Link--primary Link text-bold">NanmiCoder/MediaCrawler</a>
+          </div>
+
+          <div class="pt-2">
+              <div >
+                小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
+              </div>
+
+              <div class="pt-2">
+                <section
+  aria-label="Repo Details"
+  class="f6 mt-0 mb-0 color-fg-muted width-full"
+  
+>
+    <span
+      class="d-inline-block color-fg-muted mr-3"
+      
+    >
+      <span class="ml-0">
+  <span class="repo-language-color" style="background-color: #3572A5"></span>
+  <span itemprop="programmingLanguage">Python</span>
+</span>
+
+    </span>
+  <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;stargazers&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:651517185,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:651517185,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:0,&quot;card_retrieved_id&quot;:&quot;d2c7eeb6-5ecc-4f16-9ed7-49d6f1c264fc&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="8c549a1537368f389949b3c616f29db6e52c93e0bf84d7ebf6c065b1317b3f02" href="/NanmiCoder/MediaCrawler/stargazers" data-view-component="true" class="Link--primary Link Link--muted mr-3"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>5.6k</a>
+</section>
+
+              </div>
+          </div>
+        </div>
+
+          <div
+            class="flex-self-start"
+            
+          >
+              <template class="js-unstar-confirmation-dialog-template">
+  <div class="Box-header">
+    <h2 class="Box-title">Unstar this repository?</h2>
+  </div>
+  <div class="Box-body">
+    <p class="mb-3">
+      This will remove {{ repoNameWithOwner }} from the {{ listsWithCount }} that it's been added to.
+    </p>
+    <div class="form-actions">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-confirmation-form" data-turbo="false" action="{{ confirmUrl }}" accept-charset="UTF-8" method="post">
+        <input type="hidden" name="authenticity_token" value="{{ confirmCsrfToken }}">
+        <input type="hidden" name="confirm" value="true">
+          <button data-close-dialog="true" type="submit" data-view-component="true" class="btn-danger btn width-full">    Unstar
+</button>
+</form>    </div>
+  </div>
+</template>
+
+  <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
+    <div data-view-component="true" class="starred BtnGroup flex-1 ml-0">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/NanmiCoder/MediaCrawler/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ySTn-T4yagtlqfECHrTOARBCeEQFX0T1I6DTSX8WmDc0mxheYtLMo4r58lTmfIDXRZ1GmX6NCcdYnQbcfbpcHQ" autocomplete="off" />
+          <input type="hidden" value="Pob8y9q9gowptRBkiqLmoNl8QDLwi7RUUJvKa_QrTBbDOQNshl0kJMblEzJyaqh2jKN-74tZ-WYrph_-9oeIPA" data-csrf="true" class="js-confirm-csrf-token" />
+        <input type="hidden" name="context" value="repository">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;star_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:651517185,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:651517185,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:0,&quot;card_retrieved_id&quot;:&quot;d2c7eeb6-5ecc-4f16-9ed7-49d6f1c264fc&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="6e595150e4b0a892ee55b51b9ebf7e012fde0e1f792c162eae753b1e5c86517e" data-ga-click="Repository, click unstar button, action:conduit/for_you_feed#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
+</svg><span data-view-component="true" class="d-inline">
+              Starred
+</span>
+</button></form>        <details id="details-user-list-651517185-starred" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;user_list_menu&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:651517185,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:651517185,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:0,&quot;card_retrieved_id&quot;:&quot;d2c7eeb6-5ecc-4f16-9ed7-49d6f1c264fc&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="7e98e931ab65bb7ac4795f4874bd1c0d3d29dd77bd01de6932ec9fb148a1cf7d" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+        <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+</summary>
+  <details-menu
+    class="SelectMenu right-0"
+      src="/NanmiCoder/MediaCrawler/lists"
+      
+      role="menu"
+      
+>
+    <div class="SelectMenu-modal">
+        <header class="SelectMenu-header">
+                <h4 class="SelectMenu-title f5" id="user-lists-menu">Lists</h4>
+
+          <button class="SelectMenu-closeButton" type="button" aria-label="Close menu" data-toggle-for="details-user-list-651517185-starred">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+          </button>
+        </header>
+      <div
+        id="filter-menu-7f0808"
+        class="d-flex flex-column flex-1 overflow-hidden"
+>
+        <div
+          class="SelectMenu-list"
+          >
+
+            <include-fragment class="SelectMenu-loading" aria-label="Loading">
+              <svg role="menuitem" style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+            </include-fragment>
+        </div>
+        
+      </div>
+    </div>
+  </details-menu>
+</details>
+</div>
+    <div data-view-component="true" class="unstarred BtnGroup ml-0 flex-1">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/NanmiCoder/MediaCrawler/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="q8omtJIirX-oYOoKUG_22Gu4ogpg8d_zp23zZPN30xM21zbakBUJO2NlAMRJnjmUaD--2m3JyPtPnZQRybfmRA" autocomplete="off" />
+        <input type="hidden" name="context" value="repository">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;star_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:651517185,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:651517185,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:0,&quot;card_retrieved_id&quot;:&quot;d2c7eeb6-5ecc-4f16-9ed7-49d6f1c264fc&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="6e595150e4b0a892ee55b51b9ebf7e012fde0e1f792c162eae753b1e5c86517e" data-ga-click="Repository, click star button, action:conduit/for_you_feed#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><span data-view-component="true" class="d-inline">
+              Star
+</span>
+</button></form>        <details id="details-user-list-651517185-unstarred" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;user_list_menu&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:651517185,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:651517185,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:0,&quot;card_retrieved_id&quot;:&quot;d2c7eeb6-5ecc-4f16-9ed7-49d6f1c264fc&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="7e98e931ab65bb7ac4795f4874bd1c0d3d29dd77bd01de6932ec9fb148a1cf7d" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+        <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+</summary>
+  <details-menu
+    class="SelectMenu right-0"
+      src="/NanmiCoder/MediaCrawler/lists"
+      
+      role="menu"
+      
+>
+    <div class="SelectMenu-modal">
+        <header class="SelectMenu-header">
+                <h4 class="SelectMenu-title f5" id="user-lists-menu">Lists</h4>
+
+          <button class="SelectMenu-closeButton" type="button" aria-label="Close menu" data-toggle-for="details-user-list-651517185-unstarred">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+          </button>
+        </header>
+      <div
+        id="filter-menu-cfc707"
+        class="d-flex flex-column flex-1 overflow-hidden"
+>
+        <div
+          class="SelectMenu-list"
+          >
+
+            <include-fragment class="SelectMenu-loading" aria-label="Loading">
+              <svg role="menuitem" style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+            </include-fragment>
+        </div>
+        
+      </div>
+    </div>
+  </details-menu>
+</details>
+</div></div>          </div>
+      </div>
+</section>
+</div>
+
+            
+          </div>
+
+          <div data-view-component="true">          <article id="feed-item-0" data-hydro-view="{&quot;event_type&quot;:&quot;feeds.feed_visible&quot;,&quot;payload&quot;:{&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:172227885,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:172227885,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:1,&quot;card_retrieved_id&quot;:&quot;f37e12b3-ae45-470f-ab46-749dd47e0729&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-view-hmac="6f49da2c5bb858367b850df7469e5008abb64319647b29c38cb416868b21c84a" data-view-component="true" class="js-feed-item-component js-feed-item-view js-feed-item-next-component d-flex flex-column width-full flex-items-baseline pt-0 pb-0">
+    <div data-view-component="true" class="feed-item-content d-flex flex-column pt-2 pb-0 border-0 color-border-default rounded-1 width-full height-fit">
+      <div class="rounded-1">
+        <div class="px-3">
+        </div>
+                <hr class="mb-3 mt-2">
+
+        <div class="">
+          <div class="px-3">
+            <div >
+  
+  
+  
+    <section aria-label="card content" data-view-component="true" class="mt-0">      <div class="d-flex flex-items-center flex-justify-between" >
+        <div class="flex-column">
+          <div class="d-flex flex-items-center">
+            <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:172227885,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:172227885,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:1,&quot;card_retrieved_id&quot;:&quot;f37e12b3-ae45-470f-ab46-749dd47e0729&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:1326112},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="afb27682ef56a6f451451c5df89f83ba4b391e31bac8c7f3314374fae56ce5ce" data-hovercard-type="user" data-hovercard-url="/users/tiangolo/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=2&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=f37e12b3-ae45-470f-ab46-749dd47e0729&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=1&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=TRENDING_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-03-17+04%3A31%3A54+-0700&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=trending_repositories&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=172227885&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=172227885&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=1326112&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/tiangolo" data-view-component="true" class="Link d-block"><img src="https://avatars.githubusercontent.com/u/1326112?s=40&amp;v=4" alt="@tiangolo profile" size="20" height="20" width="20" data-view-component="true" class="feed-item-user-avatar avatar avatar-small circle box-shadow-none mr-2" /></a>
+            <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;repository_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:172227885,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:172227885,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:1,&quot;card_retrieved_id&quot;:&quot;f37e12b3-ae45-470f-ab46-749dd47e0729&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;REPO&quot;,&quot;clicked_resource_id&quot;:172227885},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="ec03af6cfd482624d3bed8dc89c0967b6159917ad2e7f06c829ca8fa3a477a80" data-hovercard-type="repository" data-hovercard-url="/tiangolo/full-stack-fastapi-template/hovercard?event_type=feeds.feed_click&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=2&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=f37e12b3-ae45-470f-ab46-749dd47e0729&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=1&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=TRENDING_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-03-17+04%3A31%3A54+-0700&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=trending_repositories&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=172227885&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=172227885&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=172227885&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=REPO&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" href="/tiangolo/full-stack-fastapi-template" data-view-component="true" class="Link--primary Link text-bold">tiangolo/full-stack-fastapi-template</a>
+          </div>
+
+          <div class="pt-2">
+              <div >
+                Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+              </div>
+
+              <div class="pt-2">
+                <section
+  aria-label="Repo Details"
+  class="f6 mt-0 mb-0 color-fg-muted width-full"
+  
+>
+    <span
+      class="d-inline-block color-fg-muted mr-3"
+      
+    >
+      <span class="ml-0">
+  <span class="repo-language-color" style="background-color: #3178c6"></span>
+  <span itemprop="programmingLanguage">TypeScript</span>
+</span>
+
+    </span>
+  <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;stargazers&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:172227885,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:172227885,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:1,&quot;card_retrieved_id&quot;:&quot;f37e12b3-ae45-470f-ab46-749dd47e0729&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="5174fb0167ee5378e2494600a62768da8ebcfb5b0d0f7a4e7a0179a29e46708e" href="/tiangolo/full-stack-fastapi-template/stargazers" data-view-component="true" class="Link--primary Link Link--muted mr-3"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>20k</a>
+</section>
+
+              </div>
+          </div>
+        </div>
+
+          <div
+            class="flex-self-start"
+            
+          >
+              <template class="js-unstar-confirmation-dialog-template">
+  <div class="Box-header">
+    <h2 class="Box-title">Unstar this repository?</h2>
+  </div>
+  <div class="Box-body">
+    <p class="mb-3">
+      This will remove {{ repoNameWithOwner }} from the {{ listsWithCount }} that it's been added to.
+    </p>
+    <div class="form-actions">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-confirmation-form" data-turbo="false" action="{{ confirmUrl }}" accept-charset="UTF-8" method="post">
+        <input type="hidden" name="authenticity_token" value="{{ confirmCsrfToken }}">
+        <input type="hidden" name="confirm" value="true">
+          <button data-close-dialog="true" type="submit" data-view-component="true" class="btn-danger btn width-full">    Unstar
+</button>
+</form>    </div>
+  </div>
+</template>
+
+  <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
+    <div data-view-component="true" class="starred BtnGroup flex-1 ml-0">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/tiangolo/full-stack-fastapi-template/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="d_nTniCWiJXeuiPGDKnOELGGjQwRM9QMTAZp5DeTAcDN4iBWJL9vNj0mDvN2AYi_SKqgAeGmfPOC6fZq40Lp4Q" autocomplete="off" />
+          <input type="hidden" value="8IU1CDlNgdCWNbfDU1_zl5f9Zs2N1Mi0thlB2FNgK4FKnsbAPWRmc3WpmvYp97U4btFLwH1BYEt49t5Wh7HDoA" data-csrf="true" class="js-confirm-csrf-token" />
+        <input type="hidden" name="context" value="repository">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;star_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:172227885,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:172227885,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:1,&quot;card_retrieved_id&quot;:&quot;f37e12b3-ae45-470f-ab46-749dd47e0729&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="32bba265a2048e187ceef682ba41b407a1dc278b65a2ba4d933b3d5235aee90d" data-ga-click="Repository, click unstar button, action:conduit/for_you_feed#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
+</svg><span data-view-component="true" class="d-inline">
+              Starred
+</span>
+</button></form>        <details id="details-user-list-172227885-starred" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;user_list_menu&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:172227885,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:172227885,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:1,&quot;card_retrieved_id&quot;:&quot;f37e12b3-ae45-470f-ab46-749dd47e0729&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="8b2fc88475d9abb9d6a20999040363440f6ee71c25311893f6e82abf53bde6b7" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+        <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+</summary>
+  <details-menu
+    class="SelectMenu right-0"
+      src="/tiangolo/full-stack-fastapi-template/lists"
+      
+      role="menu"
+      
+>
+    <div class="SelectMenu-modal">
+        <header class="SelectMenu-header">
+                <h4 class="SelectMenu-title f5" id="user-lists-menu">Lists</h4>
+
+          <button class="SelectMenu-closeButton" type="button" aria-label="Close menu" data-toggle-for="details-user-list-172227885-starred">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+          </button>
+        </header>
+      <div
+        id="filter-menu-e9eab2"
+        class="d-flex flex-column flex-1 overflow-hidden"
+>
+        <div
+          class="SelectMenu-list"
+          >
+
+            <include-fragment class="SelectMenu-loading" aria-label="Loading">
+              <svg role="menuitem" style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+            </include-fragment>
+        </div>
+        
+      </div>
+    </div>
+  </details-menu>
+</details>
+</div>
+    <div data-view-component="true" class="unstarred BtnGroup ml-0 flex-1">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/tiangolo/full-stack-fastapi-template/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ChLxo_uacITNMgOIfZO-lrEKwHnRhHmQnA2WbJRe94hlNjjGM5BQ1N-Bl5JXFCn1Td4UOBAaQ1rxcYRaR8Eu7w" autocomplete="off" />
+        <input type="hidden" name="context" value="repository">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;star_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:172227885,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:172227885,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:1,&quot;card_retrieved_id&quot;:&quot;f37e12b3-ae45-470f-ab46-749dd47e0729&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="32bba265a2048e187ceef682ba41b407a1dc278b65a2ba4d933b3d5235aee90d" data-ga-click="Repository, click star button, action:conduit/for_you_feed#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><span data-view-component="true" class="d-inline">
+              Star
+</span>
+</button></form>        <details id="details-user-list-172227885-unstarred" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;user_list_menu&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;TRENDING_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-03-17T04:31:54.000-07:00&quot;,&quot;record_id&quot;:172227885,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:172227885,&quot;card_position&quot;:2,&quot;card_sub_position&quot;:1,&quot;card_retrieved_id&quot;:&quot;f37e12b3-ae45-470f-ab46-749dd47e0729&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;trending_repositories&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="8b2fc88475d9abb9d6a20999040363440f6ee71c25311893f6e82abf53bde6b7" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+        <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+</summary>
+  <details-menu
+    class="SelectMenu right-0"
+      src="/tiangolo/full-stack-fastapi-template/lists"
+      
+      role="menu"
+      
+>
+    <div class="SelectMenu-modal">
+        <header class="SelectMenu-header">
+                <h4 class="SelectMenu-title f5" id="user-lists-menu">Lists</h4>
+
+          <button class="SelectMenu-closeButton" type="button" aria-label="Close menu" data-toggle-for="details-user-list-172227885-unstarred">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+          </button>
+        </header>
+      <div
+        id="filter-menu-53807e"
+        class="d-flex flex-column flex-1 overflow-hidden"
+>
+        <div
+          class="SelectMenu-list"
+          >
+
+            <include-fragment class="SelectMenu-loading" aria-label="Loading">
+              <svg role="menuitem" style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+            </include-fragment>
+        </div>
+        
+      </div>
+    </div>
+  </details-menu>
+</details>
+</div></div>          </div>
+      </div>
+</section>
+</div>
+
+            
+          </div>
+
+          
+
+          
+        </div>
+      </div>
+      
+</div></article>
+<div id="dismissed-item-placeholder-0" hidden="hidden" data-view-component="true" class="color-bg-subtle color-fg-muted d-flex flex-justify-between width-full flex-items-baseline py-2 px-3 mt-3 mb-3 border color-border-subtle rounded-1">
+  <span >
+      Dismissed a repository from tiangolo/full-stack-fastapi-template. Thank you for the feedback!
+  </span>
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/conduit/register_disinterest" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" autocomplete="off" /><input type="hidden" name="authenticity_token" value="MrX3B7to2ioI3xN3PQ29UknTVE_XvdEGBGGjciDO3f9FMytNSVJQCwB8BRkB465EeoQeFLZCEnX8kG0Y0a7iug" autocomplete="off" />
+    <input type="hidden" name="event_id" id="disinterest-event-id-0" value="0" autocomplete="off" />
+    <input type="hidden" name="resource_id" id="disinterest-resource-id-0" value="172227885" autocomplete="off" />
+    <input type="hidden" name="identifier" id="disinterest-identifier-id-0" value="v1:0c6516e8ab77487c4696a929e54c44a67f9d29ba445568ab3ab76da3d2f7630a" autocomplete="off" />
+    <input type="hidden" name="resource_type" id="disinterest-resource-type-0" value="REPO" autocomplete="off" />
+    <input type="hidden" name="card_type" id="disinterest-card-type-0" value="trending_repo" autocomplete="off" />
+    <input type="hidden" name="reason" id="disinterest-reason-unknown-0" value="reason_unknown" autocomplete="off" />
+    <input type="hidden" name="undo" id="disinterest-undo-0" value="true" autocomplete="off" />
+
+      <button form="feed-item-disinterest-form" type="submit" data-view-component="true" class="js-feed-disinterest-submit btn-link color-fg-muted">    Undo
+</button>
+</form></div>
+
+</div>
+
+          
+        </div>
+      </div>
+      
+</div></article>
+<div id="dismissed-item-placeholder-0" hidden="hidden" data-view-component="true" class="color-bg-subtle color-fg-muted d-flex flex-justify-between width-full flex-items-baseline py-2 px-3 mt-3 mb-3 border color-border-subtle rounded-1">
+  <span >
+      Dismissed a repository from NanmiCoder/MediaCrawler. Thank you for the feedback!
+  </span>
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/conduit/register_disinterest" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" autocomplete="off" /><input type="hidden" name="authenticity_token" value="Jk_1r1o-S-1kbLiYm2NqWxzyMb_oE5E9AP3-alwD6aZRySnlqATBzGzPrvanjXlNL6V75InsUk74DDAArWPW4w" autocomplete="off" />
+    <input type="hidden" name="event_id" id="disinterest-event-id-0" value="0" autocomplete="off" />
+    <input type="hidden" name="resource_id" id="disinterest-resource-id-0" value="651517185" autocomplete="off" />
+    <input type="hidden" name="identifier" id="disinterest-identifier-id-0" value="v1:0c6516e8ab77487c4696a929e54c44a67f9d29ba445568ab3ab76da3d2f7630a" autocomplete="off" />
+    <input type="hidden" name="resource_type" id="disinterest-resource-type-0" value="REPO" autocomplete="off" />
+    <input type="hidden" name="card_type" id="disinterest-card-type-0" value="trending_repo" autocomplete="off" />
+    <input type="hidden" name="reason" id="disinterest-reason-unknown-0" value="reason_unknown" autocomplete="off" />
+    <input type="hidden" name="undo" id="disinterest-undo-0" value="true" autocomplete="off" />
+
+      <button form="feed-item-disinterest-form" type="submit" data-view-component="true" class="js-feed-disinterest-submit btn-link color-fg-muted">    Undo
+</button>
+</form></div>
+
+            <article id="feed-item-703563065" data-hydro-view="{&quot;event_type&quot;:&quot;feeds.feed_visible&quot;,&quot;payload&quot;:{&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:39:59.000-08:00&quot;,&quot;record_id&quot;:753547166,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753547166,&quot;card_position&quot;:3,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e51b6-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-view-hmac="b44b063a80d89deba38a3f969e106ba825631b76d76a9b76ed97eeb8f9e31bb3" data-view-component="true" class="js-feed-item-component js-feed-item-view js-feed-item-next-component d-flex flex-column width-full flex-items-baseline pt-2 pb-2">
+    <div data-view-component="true" class="feed-item-content d-flex flex-column pt-2 pb-2 border color-border-default rounded-2 color-shadow-small width-full height-fit">
+      <div class="rounded-2 py-1">
+        <div class="px-3">
+              <header data-view-component="true" class="mt-1 mb-2 width-full d-flex flex-justify-between">
+
+                <div class="mr-2">
+                  <div class="position-relative">
+                      <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:39:59.000-08:00&quot;,&quot;record_id&quot;:753547166,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753547166,&quot;card_position&quot;:3,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e51b6-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:157221701},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="7b0b245630cb21db61c3876ef282a14d4d4a4f3c051c25ae80d51dfb96490d87" data-hovercard-type="user" data-hovercard-url="/users/TamnnaMalgave/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=3&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=9c7e51b6-e510-11ee-aaf5-b4969136eae8&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FORKED_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-02-06+02%3A39%3A59+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=forked_viewer_repo&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=753547166&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=753547166&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=157221701&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/TamnnaMalgave" data-view-component="true" class="Link d-block"><img src="https://avatars.githubusercontent.com/u/157221701?s=80&amp;v=4" alt="@TamnnaMalgave profile" size="40" height="40" width="40" data-view-component="true" class="feed-item-user-avatar avatar circle box-shadow-none" /></a>
+                        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-feed-forked circle feed-item-heading-icon feed-next color-fg-muted position-absolute">
+    <path d="M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16ZM6 6.928a1.75 1.75 0 1 0-1 0V7.5A1.5 1.5 0 0 0 6.5 9h1v1.072a1.75 1.75 0 1 0 1 0V9h1A1.5 1.5 0 0 0 11 7.5v-.572a1.75 1.75 0 1 0-1 0V7.5a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5Z"></path>
+</svg>
+                  </div>
+                </div>
+
+                <div data-view-component="true" class="flex-1 ml-1 mb-1">
+                  <h5 data-view-component="true" class="text-normal color-fg-muted d-flex flex-items-center flex-row flex-nowrap width-fit">
+                      <span class="flex-1">
+                          <span class="flex-shrink-0">
+                              <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;feed_user_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:39:59.000-08:00&quot;,&quot;record_id&quot;:753547166,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753547166,&quot;card_position&quot;:3,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e51b6-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:157221701},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="598abedf0fd7819c132ab23d1541b48ced5ea141952eec607f47564ff6660345" data-hovercard-type="user" data-hovercard-url="/users/TamnnaMalgave/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_login&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=3&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=9c7e51b6-e510-11ee-aaf5-b4969136eae8&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FORKED_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-02-06+02%3A39%3A59+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=forked_viewer_repo&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=753547166&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=753547166&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=157221701&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/TamnnaMalgave" data-view-component="true" class="Link--primary Link text-bold">TamnnaMalgave</a>
+                            forked
+                          </span>
+                          <span class="overflow-auto" >
+                            <span data-view-component="true" class="Truncate">
+    <span data-view-component="true" class="Truncate-text">                                      your repository
+
+</span>
+</span>                          </span>
+                      </span>
+
+
+                      <span class="js-hidden-label-target">
+                      </span>
+
+
+                          <details data-view-component="true" class="details-overlay details-reset  position-relative d-flex flex-self-center flex-items-end">
+      <summary role="button" data-view-component="true" class="btn-link">    <svg aria-label="feed item heading menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal feed-item-heading-menu-button mr-1">
+    <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+</svg>
+</summary>
+    <details-menu style="width: 320px; right: -0.4rem;" data-view-component="true" class="dropdown-menu dropdown-menu-sw show-more-popover">      <details class="details-reset details-overlay details-overlay-dark " id="feed-disinterest-dialog-703563065">
+          <summary data-hydro-click="{&quot;event_type&quot;:&quot;browser.feed.show_less_activity_button.click&quot;,&quot;payload&quot;:{&quot;actor_id&quot;:141248861,&quot;resource_id&quot;:753547166,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;event_id&quot;:703563065,&quot;event_type_string&quot;:&quot;fork_repo&quot;,&quot;clicked_at&quot;:1710757000,&quot;identifier&quot;:&quot;v1:6fb57f11cdcf5a163e85c750607def07138590350b0e386d2e6c2b519c43de99&quot;,&quot;source&quot;:&quot;TamnnaMalgave/MINI_PROJ&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="0180916a8028b9ca508f458268b811aa435d02abbf89d75dff3a32af7af1d534" data-view-component="true" class="dropdown-item btn-link no-underline width-full py-3">    Show less activity like this
+</summary>
+  <details-dialog
+    class="Box d-flex flex-column anim-fade-in fast Box--overlay js-feed-item-disinterest-dialog overflow-hidden rounded-3"
+      aria-label="Send feedback"
+>
+    <div class="Box-header">
+      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+      </button>
+            <h1 class="Box-title mb-0">Send feedback</h1>
+    <p class="mb-0 color-fg-muted">Tell us more about your preferences</p>
+
+    </div>
+      <div class="Box-body overflow-auto">
+            <disinterest-modal class="d-flex flex-column overflow-hidden height-full" >
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/conduit/register_disinterest" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wWREsO57hFUtw-kGw0kVZk9WLSwAj2tjywG2VdiS0-Lqrb9Vgv3fWCci0IY7KnAksMC8x8bcZGlIJidw6X4g3Q" autocomplete="off" />
+        <input type="hidden" name="event_id" id="disinterest-event-id-703563065" value="703563065" autocomplete="off" />
+        <input type="hidden" name="identifier" id="disinterest-identifier-id-703563065" value="v1:6fb57f11cdcf5a163e85c750607def07138590350b0e386d2e6c2b519c43de99" autocomplete="off" />
+        <input type="hidden" name="resource_id" id="disinterest-resource-id-703563065" value="753547166" autocomplete="off" />
+        <input type="hidden" name="resource_type" id="disinterest-resource-type-703563065" value="REPO" autocomplete="off" />
+        <input type="hidden" name="card_type" id="disinterest-card-type-703563065" value="fork_repo" autocomplete="off" />
+        <input type="hidden" name="undo" id="disinterest-undo-false-703563065" value="false" autocomplete="off" />
+
+        <label class="d-flex flex-items-start p-1" for="disinterest-reason-resource-703563065">
+          <input type="checkbox" name="reason_resource" id="disinterest-reason-resource-703563065" value="true" class="js-disinterest-checkbox mr-2 mt-1" />
+          <span
+            class="text-normal"
+            
+          >I&#39;m not interested in TamnnaMalgave/MINI_PROJ</span>
+</label>
+          <label class="d-flex flex-items-start p-1" for="disinterest-reason-event-type-resource-703563065">
+            <input type="checkbox" name="reason_event_type_resource" id="disinterest-reason-event-type-resource-703563065" value="true" class="js-disinterest-checkbox mr-2 mt-1" />
+            <span
+              class="text-normal"
+              
+            >I&#39;m not interested in forked repositories from TamnnaMalgave</span>
+</label>
+        <label class="d-flex flex-items-start p-1" for="disinterest-reason-event-type-703563065">
+          <input type="checkbox" name="reason_event_type" id="disinterest-reason-event-type-703563065" value="true" class="js-disinterest-checkbox mr-2 mt-1" />
+          <span
+            class="text-normal"
+            
+          >I want to see fewer forked repositories</span>
+</label>
+          <button form="feed-item-disinterest-form" type="submit" disabled="disabled" data-view-component="true" class="js-feed-disinterest-submit btn-block btn mt-3">    Submit
+</button>
+</form>    </disinterest-modal>
+
+      </div>
+  </details-dialog>
+</details>
+
+      <div class="js-block-user-button"></div>
+      <template>
+          <details class="details-reset details-overlay details-overlay-dark " >
+                  <summary data-view-component="true" class="dropdown-item btn-link no-underline width-full py-3">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-report mr-2">
+    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25Zm7 2.25v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 9a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>Report
+</summary>
+
+  <details-dialog
+    class="Box d-flex flex-column anim-fade-in fast Box--overlay overflow-hidden"
+      aria-label="Block or report TamnnaMalgave"
+>
+    <div class="Box-header report-dialog-header">
+      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+      </button>
+        <h1 class="Box-title m-0 h5" >Block or report TamnnaMalgave</h1>
+    </div>
+      <div class="Box-body overflow-auto">
+            <div class="border-bottom">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="mb-3" data-turbo="false" action="/settings/blocked_users" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7yQ1XS5gyOFg39AejEx899n60-XIyYfg5Xm-GkU_eC1KMlO3D-SLdzMPaXxOcxEV118Pgmn3EHS2Vco8PBX2GQ" autocomplete="off" />
+          <input type="hidden" name="login" value="TamnnaMalgave">
+        <input type="hidden" name="return_to" value="/TamnnaMalgave">
+
+        <strong>Block user</strong>
+        <p>
+            Prevent this user from interacting with your repositories and sending you notifications.
+          Learn more about <a class="Link--inTextBlock" href="https://docs.github.com/articles/blocking-a-user-from-your-personal-account">blocking users</a>.
+        </p>
+
+
+
+
+
+
+          <div class="mb-2">
+              <primer-text-field class="FormControl width-full FormControl--fullWidth">
+      <label class="FormControl-label" for="note">
+        Add an optional note:
+</label>    
+  <div class="FormControl-input-wrap">
+    
+      <input id="new-block-note-from-sidebar" aria-label="Add an optional note:" aria-describedby="validation-6babafa6-5181-49ea-83f1-77408f1f1c7c caption-6babafa6-5181-49ea-83f1-77408f1f1c7c" data-test-selector="ignored_user_note_text_field" data-target="primer-text-field.inputElement " class="FormControl-input FormControl-medium" type="text" name="note" />
+</div>
+      <div class="FormControl-inlineValidation" id="validation-6babafa6-5181-49ea-83f1-77408f1f1c7c" hidden="hidden">
+  <span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden><svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-check-circle-fill">
+    <path d="M6 0a6 6 0 1 1 0 12A6 6 0 0 1 6 0Zm-.705 8.737L9.63 4.403 8.392 3.166 5.295 6.263l-1.7-1.702L2.356 5.8l2.938 2.938Z"></path>
+</svg></span>
+  <span class=" FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"><svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
+    <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
+</svg></span>
+  <span></span>
+</div>
+      <span class="FormControl-caption" id="caption-6babafa6-5181-49ea-83f1-77408f1f1c7c">Please don&#39;t include any personal information such as legal names or email addresses. Maximum 100 characters, markdown supported. This note will be visible to only you.</span>
+
+</primer-text-field>
+
+          </div>
+
+        <button
+          type="submit"
+          class="btn btn-danger"
+        >
+          Block user
+        </button>
+</form>    </div>
+    <div class="mt-3">
+      <strong>Report abuse</strong>
+      <p>
+        Contact GitHub support about this user’s behavior.
+        Learn more about <a class="Link--inTextBlock" href="https://docs.github.com/articles/reporting-abuse-or-spam">reporting abuse</a>.
+      </p>
+      <a href="/contact/report-abuse?report=TamnnaMalgave+%28user%29" class="btn btn-danger">Report abuse</a>
+    </div>
+
+      </div>
+  </details-dialog>
+</details>
+
+      </template>
+</details-menu>
+</details>
+</h5>
+                    <div class="d-flex">
+                      <h6 style="margin-top: 0rem" data-view-component="true" class="text-small text-normal color-fg-muted">
+                          
+                          <relative-time tense="past" datetime="2024-02-06T02:39:59-08:00" data-view-component="true">February 6, 2024 02:39</relative-time>
+</h6>                    </div>
+</div></header>        </div>
+        
+        <div class="mt-1 mb-1">
+          <div class="px-3">
+            <div >
+  
+  
+  
+    <section aria-label="card content" data-view-component="true" class="mt-0">      <div class="d-flex color-bg-subtle flex-items-center flex-justify-between p-3 rounded-1" >
+        <div class="flex-column">
+          <div class="d-flex flex-items-center">
+            <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;avatar&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:39:59.000-08:00&quot;,&quot;record_id&quot;:753547166,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753547166,&quot;card_position&quot;:3,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e51b6-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;USER&quot;,&quot;clicked_resource_id&quot;:157221701},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="7b0b245630cb21db61c3876ef282a14d4d4a4f3c051c25ae80d51dfb96490d87" data-hovercard-type="user" data-hovercard-url="/users/TamnnaMalgave/hovercard?event_type=feeds.feed_click&amp;hover_target=feed_user_avatar&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=3&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=9c7e51b6-e510-11ee-aaf5-b4969136eae8&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FORKED_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-02-06+02%3A39%3A59+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=forked_viewer_repo&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=753547166&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=753547166&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=157221701&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=USER&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/TamnnaMalgave" data-view-component="true" class="Link d-block"><img src="https://avatars.githubusercontent.com/u/157221701?s=40&amp;v=4" alt="@TamnnaMalgave profile" size="20" height="20" width="20" data-view-component="true" class="feed-item-user-avatar avatar avatar-small circle box-shadow-none mr-2" /></a>
+            <a data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;repository_link&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:39:59.000-08:00&quot;,&quot;record_id&quot;:753547166,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753547166,&quot;card_position&quot;:3,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e51b6-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;metadata&quot;:{&quot;clicked_resource_type&quot;:&quot;REPO&quot;,&quot;clicked_resource_id&quot;:753547166},&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="f6d7a8b1a83e4178fdfd28370d76201a6b15589a2c1eaede2feb9d219138b41d" data-hovercard-type="repository" data-hovercard-url="/TamnnaMalgave/MINI_PROJ/hovercard?event_type=feeds.feed_click&amp;payload%5Bfeed_card%5D%5Bassignment_context%5D=t-5i656101%3A94139%3Bt-j0ah4466%3A108162%3Bc-cb738117%3A109742%3Bt-3efbb781%3A109448%3B&amp;payload%5Bfeed_card%5D%5Bcard_position%5D=3&amp;payload%5Bfeed_card%5D%5Bcard_retrieved_id%5D=9c7e51b6-e510-11ee-aaf5-b4969136eae8&amp;payload%5Bfeed_card%5D%5Bcard_sub_position%5D=&amp;payload%5Bfeed_card%5D%5Bcard_type%5D=FORKED_REPOSITORY&amp;payload%5Bfeed_card%5D%5Bcreated_at%5D=2024-02-06+02%3A39%3A59+-0800&amp;payload%5Bfeed_card%5D%5Bgatherer%5D=forked_viewer_repo&amp;payload%5Bfeed_card%5D%5Branking_model_id%5D=chronological&amp;payload%5Bfeed_card%5D%5Brecord_id%5D=753547166&amp;payload%5Bfeed_card%5D%5Bresource_id%5D=753547166&amp;payload%5Bfeed_card%5D%5Bresource_relationship%5D=&amp;payload%5Bfeed_card%5D%5Bresource_type%5D=REPO&amp;payload%5Bfeed_card%5D%5Bvariant%5D=%7B%7D&amp;payload%5Bmetadata%5D%5Bclicked_resource_id%5D=753547166&amp;payload%5Bmetadata%5D%5Bclicked_resource_type%5D=REPO&amp;payload%5Boriginal_request_id%5D=89DC%3A174510%3A13F4B16%3A16B6C94%3A65F81488" href="/TamnnaMalgave/MINI_PROJ" data-view-component="true" class="Link--primary Link text-bold">TamnnaMalgave/MINI_PROJ</a>
+          </div>
+        </div>
+
+          <div
+            class="flex-self-center"
+            
+          >
+              <template class="js-unstar-confirmation-dialog-template">
+  <div class="Box-header">
+    <h2 class="Box-title">Unstar this repository?</h2>
+  </div>
+  <div class="Box-body">
+    <p class="mb-3">
+      This will remove {{ repoNameWithOwner }} from the {{ listsWithCount }} that it's been added to.
+    </p>
+    <div class="form-actions">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-confirmation-form" data-turbo="false" action="{{ confirmUrl }}" accept-charset="UTF-8" method="post">
+        <input type="hidden" name="authenticity_token" value="{{ confirmCsrfToken }}">
+        <input type="hidden" name="confirm" value="true">
+          <button data-close-dialog="true" type="submit" data-view-component="true" class="btn-danger btn width-full">    Unstar
+</button>
+</form>    </div>
+  </div>
+</template>
+
+  <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
+    <div data-view-component="true" class="starred BtnGroup flex-1 ml-0">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/TamnnaMalgave/MINI_PROJ/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="L4nkqe-ISiIzNslvyvtoi1CF2lHSMvYsQWiMuqWIc8CyAes_eGiffgJGs-8JyONLDTmEyCnRyxuclY1zIR9RxQ" autocomplete="off" />
+          <input type="hidden" value="oTWhdrkaeFXqQjRmUG4KUqo9StdCLpIaAdZnaXDGN-w8va7gLvqtCdsyTuaTXYGS94EUTrnNry3cK2ag9FEV6Q" data-csrf="true" class="js-confirm-csrf-token" />
+        <input type="hidden" name="context" value="repository">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;star_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:39:59.000-08:00&quot;,&quot;record_id&quot;:753547166,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753547166,&quot;card_position&quot;:3,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e51b6-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="1df5fcdea8fd3ba0034b4b7df31e6c9432ccce67fc8b24392c7c278adb7ac21d" data-ga-click="Repository, click unstar button, action:conduit/for_you_feed#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
+</svg><span data-view-component="true" class="d-inline">
+              Starred
+</span>
+</button></form>        <details id="details-user-list-753547166-starred" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;user_list_menu&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:39:59.000-08:00&quot;,&quot;record_id&quot;:753547166,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753547166,&quot;card_position&quot;:3,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e51b6-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="1691db2620752eaf503911ebac8e994f8f5d1c3e6bd908310871b9f7170119c0" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+        <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+</summary>
+  <details-menu
+    class="SelectMenu right-0"
+      src="/TamnnaMalgave/MINI_PROJ/lists"
+      
+      role="menu"
+      
+>
+    <div class="SelectMenu-modal">
+        <header class="SelectMenu-header">
+                <h4 class="SelectMenu-title f5" id="user-lists-menu">Lists</h4>
+
+          <button class="SelectMenu-closeButton" type="button" aria-label="Close menu" data-toggle-for="details-user-list-753547166-starred">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+          </button>
+        </header>
+      <div
+        id="filter-menu-5b9823"
+        class="d-flex flex-column flex-1 overflow-hidden"
+>
+        <div
+          class="SelectMenu-list"
+          >
+
+            <include-fragment class="SelectMenu-loading" aria-label="Loading">
+              <svg role="menuitem" style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+            </include-fragment>
+        </div>
+        
+      </div>
+    </div>
+  </details-menu>
+</details>
+</div>
+    <div data-view-component="true" class="unstarred BtnGroup ml-0 flex-1">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/TamnnaMalgave/MINI_PROJ/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cJ050LHDzyHg1zBJIcGaBkU9lsu73tcNYMdpDyL0UdgJtPhlMF7cxfBXpYiVN3KdVTSvL0MOsi2gnCdCsj9bGg" autocomplete="off" />
+        <input type="hidden" name="context" value="repository">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;star_button&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:39:59.000-08:00&quot;,&quot;record_id&quot;:753547166,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753547166,&quot;card_position&quot;:3,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e51b6-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="1df5fcdea8fd3ba0034b4b7df31e6c9432ccce67fc8b24392c7c278adb7ac21d" data-ga-click="Repository, click star button, action:conduit/for_you_feed#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><span data-view-component="true" class="d-inline">
+              Star
+</span>
+</button></form>        <details id="details-user-list-753547166-unstarred" data-hydro-click="{&quot;event_type&quot;:&quot;feeds.feed_click&quot;,&quot;payload&quot;:{&quot;click_target&quot;:&quot;user_list_menu&quot;,&quot;feed_card&quot;:{&quot;card_type&quot;:&quot;FORKED_REPOSITORY&quot;,&quot;resource_relationship&quot;:&quot;&quot;,&quot;created_at&quot;:&quot;2024-02-06T02:39:59.000-08:00&quot;,&quot;record_id&quot;:753547166,&quot;resource_type&quot;:&quot;REPO&quot;,&quot;resource_id&quot;:753547166,&quot;card_position&quot;:3,&quot;card_sub_position&quot;:null,&quot;card_retrieved_id&quot;:&quot;9c7e51b6-e510-11ee-aaf5-b4969136eae8&quot;,&quot;ranking_model_id&quot;:&quot;chronological&quot;,&quot;gatherer&quot;:&quot;forked_viewer_repo&quot;,&quot;variant&quot;:&quot;{}&quot;,&quot;assignment_context&quot;:&quot;t-5i656101:94139;t-j0ah4466:108162;c-cb738117:109742;t-3efbb781:109448;&quot;},&quot;original_request_id&quot;:&quot;89DC:174510:13F4B16:16B6C94:65F81488&quot;,&quot;originating_url&quot;:&quot;https://github.com/conduit/for_you_feed&quot;,&quot;user_id&quot;:141248861}}" data-hydro-click-hmac="1691db2620752eaf503911ebac8e994f8f5d1c3e6bd908310871b9f7170119c0" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+        <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
+    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
+</svg>
+</summary>
+  <details-menu
+    class="SelectMenu right-0"
+      src="/TamnnaMalgave/MINI_PROJ/lists"
+      
+      role="menu"
+      
+>
+    <div class="SelectMenu-modal">
+        <header class="SelectMenu-header">
+                <h4 class="SelectMenu-title f5" id="user-lists-menu">Lists</h4>
+
+          <button class="SelectMenu-closeButton" type="button" aria-label="Close menu" data-toggle-for="details-user-list-753547166-unstarred">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+          </button>
+        </header>
+      <div
+        id="filter-menu-6ef0aa"
+        class="d-flex flex-column flex-1 overflow-hidden"
+>
+        <div
+          class="SelectMenu-list"
+          >
+
+            <include-fragment class="SelectMenu-loading" aria-label="Loading">
+              <svg role="menuitem" style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+            </include-fragment>
+        </div>
+        
+      </div>
+    </div>
+  </details-menu>
+</details>
+</div></div>          </div>
+      </div>
+</section>
+</div>
+
+            
+          </div>
+
+          
+
+          
+        </div>
+      </div>
+      
+</div></article>
+<div id="dismissed-item-placeholder-703563065" hidden="hidden" data-view-component="true" class="color-bg-subtle color-fg-muted d-flex flex-justify-between width-full flex-items-baseline py-2 px-3 mt-3 mb-3 border color-border-subtle rounded-1">
+  <span >
+      Dismissed a repository from TamnnaMalgave/MINI_PROJ. Thank you for the feedback!
+  </span>
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/conduit/register_disinterest" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" autocomplete="off" /><input type="hidden" name="authenticity_token" value="4ZWUiL8I-D9ObvEZmFKv4d4bIdDQ28sT1oJSw6xbRJiWE0jCTTJyHkbN53ekvLz37Uxri7EkCGAuc5ypXTt73Q" autocomplete="off" />
+    <input type="hidden" name="event_id" id="disinterest-event-id-703563065" value="703563065" autocomplete="off" />
+    <input type="hidden" name="resource_id" id="disinterest-resource-id-703563065" value="753547166" autocomplete="off" />
+    <input type="hidden" name="identifier" id="disinterest-identifier-id-703563065" value="v1:6fb57f11cdcf5a163e85c750607def07138590350b0e386d2e6c2b519c43de99" autocomplete="off" />
+    <input type="hidden" name="resource_type" id="disinterest-resource-type-703563065" value="REPO" autocomplete="off" />
+    <input type="hidden" name="card_type" id="disinterest-card-type-703563065" value="fork_repo" autocomplete="off" />
+    <input type="hidden" name="reason" id="disinterest-reason-unknown-703563065" value="reason_unknown" autocomplete="off" />
+    <input type="hidden" name="undo" id="disinterest-undo-703563065" value="true" autocomplete="off" />
+
+      <button form="feed-item-disinterest-form" type="submit" data-view-component="true" class="js-feed-disinterest-submit btn-link color-fg-muted">    Undo
+</button>
+</form></div>
+
+
+    <template class="js-new-comment-template" >
+  <div class="comment-form-error js-comment-form-error" role="alert" hidden></div>
+  <tab-container class="js-feed-post-comment-form" >
+  <div role="tabpanel">
+    <div class="js-write-bucket mx-0 mt-2 mb-2 mx-md-2 hx_sm-hide-drag-drop js-reaction-suggestion" data-reaction-markup="Would you like to leave a reaction instead?">
+      <input
+        type="hidden"
+        name="saved_reply_id"
+        id="feed-post-{{ postId }}-comment_saved_reply_id"
+        class="js-resettable-field"
+        value=""
+        data-reset-value=""
+      >
+
+      <text-expander
+        keys=": @"
+        class="position-relative"
+        data-mention-url="/autocomplete/user-suggestions"
+        data-emoji-url="/autocomplete/emoji"
+      >
+        <textarea
+          name="comment[body]"
+          id="feed-post-{{ postId }}-comment"
+          aria-label="Comment body"
+          autofocus
+          placeholder="Write a reply"
+          data-required-trimmed="Text field is empty"
+          class="js-comment-field js-paste-markdown js-task-list-field js-quick-submit form-control input-contrast comment-form-textarea js-size-to-fit js-local-storage-resumable js-saved-reply-shortcut-comment-field color-bg-default relative"
+          dir="auto"
+          
+          required
+        ></textarea>
+      </text-expander>
+    </div>
+</div>
+  <div class="comment-form-error mb-2 js-comment-update-error" hidden></div>
+</tab-container>
+
+  <div class="float-none m-0 mx-md-2 my-md-2 p-0">
+    <div class="d-flex flex-justify-end">
+      <div class="ml-1 d-flex flex-items-center">
+          <button data-confirm-cancel-text="Are you sure you want to discard your unsaved changes?" type="reset" data-view-component="true" class="js-hide-inline-comment-form btn mr-1">    Cancel
+</button>          <button data-disable-with="" data-disable-invalid="" type="submit" data-view-component="true" class="btn-primary btn">    Reply
+</button>      </div>
+    </div>
+  </div>
+</template>
+
+
+</turbo-frame>

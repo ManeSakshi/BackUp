@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Epiphany.desktop" score="0" last-seen="1710756795"/>
+    <application id="org.vanillaos.Installer.desktop" score="0" last-seen="1710756496"/>
+    <application id="org.gnome.Nautilus.desktop" score="6" last-seen="1710756672"/>
+    <application id="gnome-wifi-panel.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.Console.desktop" score="21" last-seen="1710756795"/>
+    <application id="org.gnome.Settings.desktop" score="2" last-seen="1710756779"/>
+  </context>
+</application-state>
